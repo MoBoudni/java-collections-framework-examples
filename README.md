@@ -29,14 +29,14 @@ Alle Beispiele verwenden deutsche Baumarten:
 - Rotkiefer, Schwarzkiefer, Latsche
 - Zirbe, Eibe
 
-Lernziele
+## Lernziele
 
 Verstehen der Unterschiede zwischen List, Set und Map
 Praktische Anwendung verschiedener Collection-Implementierungen
 Moderne Java-Syntax (Lambda-Ausdrücke, Method References)
 Performance-Charakteristika verschiedener Collections
 
-Anforderungen
+## Anforderungen
 
 Java 9+ (für List.of() und moderne Features)
 Beliebige Java-IDE
