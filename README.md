@@ -2,7 +2,7 @@
 
 Dieses Repository enthält umfassende Beispiele für das Java Collection Framework (JCF) mit praktischen Demonstrationen verschiedener Collection-Implementierungen.
 
-## 📋 Überblick
+## Überblick
 
 Das Projekt demonstriert die Verwendung verschiedener Java-Collections anhand von Baumartenbeispielen:
 
@@ -22,21 +22,21 @@ Das Projekt demonstriert die Verwendung verschiedener Java-Collections anhand vo
 - **LinkedHashMap** - Key-Value Paare, Einfügereihenfolge
 - **TreeMap** - Key-Value Paare, alphabetisch nach Schlüssel sortiert
 
-## 🌲 Beispieldaten
+## Beispieldaten
 
 Alle Beispiele verwenden deutsche Baumarten:
 - Fichte, Tanne, Lärche
 - Rotkiefer, Schwarzkiefer, Latsche
 - Zirbe, Eibe
 
-💡 Lernziele
+Lernziele
 
 Verstehen der Unterschiede zwischen List, Set und Map
 Praktische Anwendung verschiedener Collection-Implementierungen
 Moderne Java-Syntax (Lambda-Ausdrücke, Method References)
 Performance-Charakteristika verschiedener Collections
 
-🔧 Anforderungen
+Anforderungen
 
 Java 9+ (für List.of() und moderne Features)
 Beliebige Java-IDE
